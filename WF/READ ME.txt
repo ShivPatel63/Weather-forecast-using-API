@@ -1,0 +1,4 @@
+First of all Put this folder in the htdocs.
+After that import the project.SQL file in your databse.
+Then open localhost server and start the main.php file.
+ 
